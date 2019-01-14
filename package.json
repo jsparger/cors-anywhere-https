@@ -1,0 +1,22 @@
+{
+  "name": "cors-anywhere-https",
+  "version": "0.0.1",
+  "description": "cors-anywhere server with https",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsparger/cors-anywhere-https.git"
+  },
+  "author": "John Sparger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsparger/cors-anywhere-https/issues"
+  },
+  "homepage": "https://github.com/jsparger/cors-anywhere-https#readme",
+  "dependencies": {
+    "cors-anywhere": "^0.4.1"
+  }
+}
